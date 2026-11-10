@@ -1,0 +1,26 @@
+{
+  "name": "ecuador-fruit-trade-intelligence",
+  "version": "1.0.0",
+  "description": "Presentación ejecutiva e interactiva sobre la rentabilidad y destinos de exportación de frutas ecuatorianas (Pitahaya, Piña, Mango).",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "ecuador",
+    "exportaciones",
+    "pitahaya",
+    "pina",
+    "mango",
+    "inteligencia-comercial",
+    "trade",
+    "comtrade",
+    "wits"
+  ],
+  "author": "Equipo de Inteligencia Comercial y Comercio Exterior",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

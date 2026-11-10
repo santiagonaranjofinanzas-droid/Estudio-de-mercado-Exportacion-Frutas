@@ -1,0 +1,91 @@
+hs_code,producto,mercado_importador,mercado_codigo,mercado_iso,ano,tipo_registro,proveedor,proveedor_codigo,valor_importado_usd,peso_neto_kg,cuota_mercado_pct,total_importado_mercado_usd,total_importado_mercado_kg,ranking_proveedor
+080430,Piña,Estados Unidos,842,USA,2025,Total Mercado / Ecuador,Ecuador,218,31192627.0,44791609.0,3.05,1023678964.0,1307030282.0,Proveedor Nacional
+080430,Piña,Estados Unidos,842,USA,2025,Competidor Internacional,Costa Rica,188,859289821.0,1125812665.0,83.94,1023678964.0,1307030282.0,Top #1 Competidor
+080430,Piña,Estados Unidos,842,USA,2025,Competidor Internacional,Mexico,484,64281181.0,65925333.0,6.28,1023678964.0,1307030282.0,Top #2 Competidor
+080430,Piña,Estados Unidos,842,USA,2025,Competidor Internacional,Honduras,340,28939076.0,44443401.0,2.83,1023678964.0,1307030282.0,Top #3 Competidor
+080430,Piña,Estados Unidos,842,USA,2025,Competidor Internacional,Guatemala,320,13510687.0,20855845.0,1.32,1023678964.0,1307030282.0,Top #4 Competidor
+080430,Piña,Estados Unidos,842,USA,2025,Competidor Internacional,Peru,604,12161885.0,1167009.0,1.19,1023678964.0,1307030282.0,Top #5 Competidor
+080430,Piña,Países Bajos,528,NLD,2025,Total Mercado / Ecuador,Ecuador,218,9348517.672,8928600.0,3.85,242615196.364,214910831.0,Proveedor Nacional
+080430,Piña,Países Bajos,528,NLD,2025,Competidor Internacional,Costa Rica,188,176533631.504,159935977.0,72.76,242615196.364,214910831.0,Top #1 Competidor
+080430,Piña,Países Bajos,528,NLD,2025,Competidor Internacional,Germany,276,18493277.916,15270527.0,7.62,242615196.364,214910831.0,Top #2 Competidor
+080430,Piña,Países Bajos,528,NLD,2025,Competidor Internacional,Belgium,56,16360168.082,12548866.0,6.74,242615196.364,214910831.0,Top #3 Competidor
+080430,Piña,Países Bajos,528,NLD,2025,Competidor Internacional,Spain,724,5604416.879,4277908.0,2.31,242615196.364,214910831.0,Top #4 Competidor
+080430,Piña,Países Bajos,528,NLD,2025,Competidor Internacional,Kenya,404,4657894.42,3713978.0,1.92,242615196.364,214910831.0,Top #5 Competidor
+080430,Piña,España,724,ESP,2025,Total Mercado / Ecuador,Ecuador,218,6690991.717,7211486.2,3.1,215614840.887,192164548.757,Proveedor Nacional
+080430,Piña,España,724,ESP,2025,Competidor Internacional,Costa Rica,188,187945386.022,167315626.777,87.17,215614840.887,192164548.757,Top #1 Competidor
+080430,Piña,España,724,ESP,2025,Competidor Internacional,Panama,591,7134604.889,6725037.98,3.31,215614840.887,192164548.757,Top #2 Competidor
+080430,Piña,España,724,ESP,2025,Competidor Internacional,Portugal,620,4777320.2,3955818.37,2.22,215614840.887,192164548.757,Top #3 Competidor
+080430,Piña,España,724,ESP,2025,Competidor Internacional,Netherlands,528,3305679.968,2554706.18,1.53,215614840.887,192164548.757,Top #4 Competidor
+080430,Piña,España,724,ESP,2025,Competidor Internacional,France,251,1589725.982,1401295.18,0.74,215614840.887,192164548.757,Top #5 Competidor
+080430,Piña,Canadá,124,CAN,2025,Total Mercado / Ecuador,Ecuador,218,3983532.63,2921764.704,3.03,131327191.643,132664158.244,Proveedor Nacional
+080430,Piña,Canadá,124,CAN,2025,Competidor Internacional,Costa Rica,188,111805277.865,115420179.711,85.13,131327191.643,132664158.244,Top #1 Competidor
+080430,Piña,Canadá,124,CAN,2025,Competidor Internacional,Honduras,340,4512178.986,6527539.0,3.44,131327191.643,132664158.244,Top #2 Competidor
+080430,Piña,Canadá,124,CAN,2025,Competidor Internacional,Mexico,484,3876147.267,3463844.0,2.95,131327191.643,132664158.244,Top #3 Competidor
+080430,Piña,Canadá,124,CAN,2025,Competidor Internacional,Peru,604,2214989.459,181096.422,1.69,131327191.643,132664158.244,Top #4 Competidor
+080430,Piña,Canadá,124,CAN,2025,Competidor Internacional,Guatemala,320,1618171.49,2160727.0,1.23,131327191.643,132664158.244,Top #5 Competidor
+080430,Piña,Chile,152,CHL,2025,Total Mercado / Ecuador,Ecuador,218,14249216.598,24620475.853,93.34,15266720.498,25700506.603,Proveedor Nacional
+080430,Piña,Chile,152,CHL,2025,Competidor Internacional,Costa Rica,188,757876.6,875211.75,4.96,15266720.498,25700506.603,Top #1 Competidor
+080430,Piña,Chile,152,CHL,2025,Competidor Internacional,China,156,88782.4,30116.0,0.58,15266720.498,25700506.603,Top #2 Competidor
+080430,Piña,Chile,152,CHL,2025,Competidor Internacional,Peru,604,83124.38,47283.0,0.54,15266720.498,25700506.603,Top #3 Competidor
+080430,Piña,Chile,152,CHL,2025,Competidor Internacional,Bolivia (Plurinational State of),68,41178.9,120000.0,0.27,15266720.498,25700506.603,Top #4 Competidor
+080430,Piña,Chile,152,CHL,2025,Competidor Internacional,Thailand,764,34091.62,7000.0,0.22,15266720.498,25700506.603,Top #5 Competidor
+080450,Mango,Estados Unidos,842,USA,2025,Total Mercado / Ecuador,Ecuador,218,76809857.0,51731995.0,7.51,1022888254.0,644445182.0,Proveedor Nacional
+080450,Mango,Estados Unidos,842,USA,2025,Competidor Internacional,Mexico,484,552557029.0,402920605.0,54.02,1022888254.0,644445182.0,Top #1 Competidor
+080450,Mango,Estados Unidos,842,USA,2025,Competidor Internacional,Peru,604,172439987.0,103680305.0,16.86,1022888254.0,644445182.0,Top #2 Competidor
+080450,Mango,Estados Unidos,842,USA,2025,Competidor Internacional,Thailand,764,56586127.0,8338253.0,5.53,1022888254.0,644445182.0,Top #3 Competidor
+080450,Mango,Estados Unidos,842,USA,2025,Competidor Internacional,Brazil,76,45657327.0,37171374.0,4.46,1022888254.0,644445182.0,Top #4 Competidor
+080450,Mango,Estados Unidos,842,USA,2025,Competidor Internacional,Cambodia,116,24729710.0,4726442.0,2.42,1022888254.0,644445182.0,Top #5 Competidor
+080450,Mango,Países Bajos,528,NLD,2025,Total Mercado / Ecuador,Ecuador,218,3171972.254,1942042.0,0.81,392395920.184,248475232.0,Proveedor Nacional
+080450,Mango,Países Bajos,528,NLD,2025,Competidor Internacional,Brazil,76,163258315.107,115412930.0,41.61,392395920.184,248475232.0,Top #1 Competidor
+080450,Mango,Países Bajos,528,NLD,2025,Competidor Internacional,Peru,604,91315099.488,60670666.0,23.27,392395920.184,248475232.0,Top #2 Competidor
+080450,Mango,Países Bajos,528,NLD,2025,Competidor Internacional,Dominican Rep.,214,18782758.124,13826600.0,4.79,392395920.184,248475232.0,Top #3 Competidor
+080450,Mango,Países Bajos,528,NLD,2025,Competidor Internacional,Spain,724,14903879.724,6470248.0,3.8,392395920.184,248475232.0,Top #4 Competidor
+080450,Mango,Países Bajos,528,NLD,2025,Competidor Internacional,France,251,14649789.457,8233851.0,3.73,392395920.184,248475232.0,Top #5 Competidor
+080450,Mango,España,724,ESP,2025,Total Mercado / Ecuador,Ecuador,218,356356.347,85208.0,0.18,201139044.262,92499985.119,Proveedor Nacional
+080450,Mango,España,724,ESP,2025,Competidor Internacional,Brazil,76,97794876.754,58321704.999,48.62,201139044.262,92499985.119,Top #1 Competidor
+080450,Mango,España,724,ESP,2025,Competidor Internacional,Peru,604,57595960.094,19623473.99,28.63,201139044.262,92499985.119,Top #2 Competidor
+080450,Mango,España,724,ESP,2025,Competidor Internacional,Mexico,484,16004308.693,3003288.7,7.96,201139044.262,92499985.119,Top #3 Competidor
+080450,Mango,España,724,ESP,2025,Competidor Internacional,Portugal,620,4967797.956,2313476.35,2.47,201139044.262,92499985.119,Top #4 Competidor
+080450,Mango,España,724,ESP,2025,Competidor Internacional,Dominican Rep.,214,4455272.238,1688169.16,2.22,201139044.262,92499985.119,Top #5 Competidor
+080450,Mango,Canadá,124,CAN,2025,Total Mercado / Ecuador,Ecuador,218,2582142.981,1344393.0,1.23,209223735.633,87763686.834,Proveedor Nacional
+080450,Mango,Canadá,124,CAN,2025,Competidor Internacional,Mexico,484,96362503.7,49332737.0,46.06,209223735.633,87763686.834,Top #1 Competidor
+080450,Mango,Canadá,124,CAN,2025,Competidor Internacional,Peru,604,31014823.534,13521126.0,14.82,209223735.633,87763686.834,Top #2 Competidor
+080450,Mango,Canadá,124,CAN,2025,Competidor Internacional,Thailand,764,18831142.096,2366108.0,9.0,209223735.633,87763686.834,Top #3 Competidor
+080450,Mango,Canadá,124,CAN,2025,Competidor Internacional,Brazil,76,18018253.058,10926938.0,8.61,209223735.633,87763686.834,Top #4 Competidor
+080450,Mango,Canadá,124,CAN,2025,Competidor Internacional,Colombia,170,8294274.861,1410754.0,3.96,209223735.633,87763686.834,Top #5 Competidor
+080450,Mango,Chile,152,CHL,2025,Total Mercado / Ecuador,Ecuador,218,0.0,,0.0,15785836.355,12695985.348,Proveedor Nacional
+080450,Mango,Chile,152,CHL,2025,Competidor Internacional,Peru,604,8379971.254,7682882.78,53.09,15785836.355,12695985.348,Top #1 Competidor
+080450,Mango,Chile,152,CHL,2025,Competidor Internacional,Brazil,76,7348113.041,5002628.388,46.55,15785836.355,12695985.348,Top #2 Competidor
+080450,Mango,Chile,152,CHL,2025,Competidor Internacional,Thailand,764,24829.63,7000.0,0.16,15785836.355,12695985.348,Top #3 Competidor
+080450,Mango,Chile,152,CHL,2025,Competidor Internacional,France,251,20404.32,1350.0,0.13,15785836.355,12695985.348,Top #4 Competidor
+080450,Mango,Chile,152,CHL,2025,Competidor Internacional,China,156,12258.73,2108.0,0.08,15785836.355,12695985.348,Top #5 Competidor
+081090,Pitahaya / Frutas Exóticas,Estados Unidos,842,USA,2025,Total Mercado / Ecuador,Ecuador,218,73442781.0,33293608.0,21.62,339680688.0,265562699.0,Proveedor Nacional
+081090,Pitahaya / Frutas Exóticas,Estados Unidos,842,USA,2025,Competidor Internacional,Mexico,484,153568983.0,200676553.0,45.21,339680688.0,265562699.0,Top #1 Competidor
+081090,Pitahaya / Frutas Exóticas,Estados Unidos,842,USA,2025,Competidor Internacional,Peru,604,26440484.0,4430581.0,7.78,339680688.0,265562699.0,Top #2 Competidor
+081090,Pitahaya / Frutas Exóticas,Estados Unidos,842,USA,2025,Competidor Internacional,Viet Nam,704,17990135.0,4939866.0,5.3,339680688.0,265562699.0,Top #3 Competidor
+081090,Pitahaya / Frutas Exóticas,Estados Unidos,842,USA,2025,Competidor Internacional,Chile,152,12429225.0,2896376.0,3.66,339680688.0,265562699.0,Top #4 Competidor
+081090,Pitahaya / Frutas Exóticas,Estados Unidos,842,USA,2025,Competidor Internacional,Guatemala,320,9437551.0,3946177.0,2.78,339680688.0,265562699.0,Top #5 Competidor
+081090,Pitahaya / Frutas Exóticas,Países Bajos,528,NLD,2025,Total Mercado / Ecuador,Ecuador,218,12238859.711,1913289.0,4.63,264385623.104,73320328.0,Proveedor Nacional
+081090,Pitahaya / Frutas Exóticas,Países Bajos,528,NLD,2025,Competidor Internacional,Colombia,170,67966789.165,10818167.0,25.71,264385623.104,73320328.0,Top #1 Competidor
+081090,Pitahaya / Frutas Exóticas,Países Bajos,528,NLD,2025,Competidor Internacional,Peru,604,51499601.51,15460591.0,19.48,264385623.104,73320328.0,Top #2 Competidor
+081090,Pitahaya / Frutas Exóticas,Países Bajos,528,NLD,2025,Competidor Internacional,Spain,724,32593362.22,19793811.0,12.33,264385623.104,73320328.0,Top #3 Competidor
+081090,Pitahaya / Frutas Exóticas,Países Bajos,528,NLD,2025,Competidor Internacional,Ghana,288,16026190.268,2240505.0,6.06,264385623.104,73320328.0,Top #4 Competidor
+081090,Pitahaya / Frutas Exóticas,Países Bajos,528,NLD,2025,Competidor Internacional,France,251,11884556.89,2449870.0,4.5,264385623.104,73320328.0,Top #5 Competidor
+081090,Pitahaya / Frutas Exóticas,España,724,ESP,2025,Total Mercado / Ecuador,Ecuador,218,18032988.833,3276974.595,42.73,42201138.719,10504853.245,Proveedor Nacional
+081090,Pitahaya / Frutas Exóticas,España,724,ESP,2025,Competidor Internacional,Peru,604,6633425.573,1699015.5,15.72,42201138.719,10504853.245,Top #1 Competidor
+081090,Pitahaya / Frutas Exóticas,España,724,ESP,2025,Competidor Internacional,Colombia,170,5290900.146,800748.15,12.54,42201138.719,10504853.245,Top #2 Competidor
+081090,Pitahaya / Frutas Exóticas,España,724,ESP,2025,Competidor Internacional,Viet Nam,704,2270283.047,277282.74,5.38,42201138.719,10504853.245,Top #3 Competidor
+081090,Pitahaya / Frutas Exóticas,España,724,ESP,2025,Competidor Internacional,Morocco,504,1660492.101,1664634.5,3.93,42201138.719,10504853.245,Top #4 Competidor
+081090,Pitahaya / Frutas Exóticas,España,724,ESP,2025,Competidor Internacional,Madagascar,450,1424362.808,346624.0,3.38,42201138.719,10504853.245,Top #5 Competidor
+081090,Pitahaya / Frutas Exóticas,Canadá,124,CAN,2025,Total Mercado / Ecuador,Ecuador,218,9217805.163,2268405.0,7.82,117862123.552,38455515.0,Proveedor Nacional
+081090,Pitahaya / Frutas Exóticas,Canadá,124,CAN,2025,Competidor Internacional,USA,842,30395392.618,8660615.0,25.79,117862123.552,38455515.0,Top #1 Competidor
+081090,Pitahaya / Frutas Exóticas,Canadá,124,CAN,2025,Competidor Internacional,Viet Nam,704,20830879.275,7727121.0,17.67,117862123.552,38455515.0,Top #2 Competidor
+081090,Pitahaya / Frutas Exóticas,Canadá,124,CAN,2025,Competidor Internacional,China,156,11239003.592,3218384.0,9.54,117862123.552,38455515.0,Top #3 Competidor
+081090,Pitahaya / Frutas Exóticas,Canadá,124,CAN,2025,Competidor Internacional,Mexico,484,10351849.52,5865063.0,8.78,117862123.552,38455515.0,Top #4 Competidor
+081090,Pitahaya / Frutas Exóticas,Canadá,124,CAN,2025,Competidor Internacional,Peru,604,8268286.011,2958705.0,7.02,117862123.552,38455515.0,Top #5 Competidor
+081090,Pitahaya / Frutas Exóticas,Chile,152,CHL,2025,Total Mercado / Ecuador,Ecuador,218,0.0,,0.0,12660.309,810.78,Proveedor Nacional
+081090,Pitahaya / Frutas Exóticas,Chile,152,CHL,2025,Competidor Internacional,China,156,10555.09,594.0,83.37,12660.309,810.78,Top #1 Competidor
+081090,Pitahaya / Frutas Exóticas,Chile,152,CHL,2025,Competidor Internacional,Thailand,764,731.22,200.0,5.78,12660.309,810.78,Top #2 Competidor
+081090,Pitahaya / Frutas Exóticas,Chile,152,CHL,2025,Competidor Internacional,Canada,124,644.64,1.0,5.09,12660.309,810.78,Top #3 Competidor
+081090,Pitahaya / Frutas Exóticas,Chile,152,CHL,2025,Competidor Internacional,Saudi Arabia,682,296.14,9.78,2.34,12660.309,810.78,Top #4 Competidor
+081090,Pitahaya / Frutas Exóticas,Chile,152,CHL,2025,Competidor Internacional,USA,842,251.29,1.0,1.98,12660.309,810.78,Top #5 Competidor

@@ -1,0 +1,61 @@
+products:
+  pina:
+    id: "pina"
+    name_es: "Piña"
+    name_en: "Pineapple"
+    hs6: "080430"
+    hs_desc: "Pineapples, fresh or dried"
+    mag_name: "Piña"
+    is_pure_hs6: true
+    subheading_national: "0804300000"
+    notes: "Partida arancelaria directa y homogénea. En Ecuador la oferta es principalmente piña fresca MD2 (Golden Sweet)."
+
+  mango:
+    id: "mango"
+    name_es: "Mango"
+    name_en: "Mango"
+    hs6: "080450"
+    hs_desc: "Guavas, mangoes and mangosteens, fresh or dried"
+    mag_name: null
+    is_pure_hs6: false
+    subheading_national: "0804502000"
+    notes: "Partida internacional agregada que agrupa guayabas, mangos y mangostanes. En Ecuador más del 95% de la exportación bajo este código corresponde a mango fresco (Tommy Atkins, Kent, Ataulfo, Keitt). No figura desagregado de manera independiente en la hoja del MAG."
+
+  pitahaya:
+    id: "pitahaya"
+    name_es: "Pitahaya"
+    name_en: "Dragon Fruit / Pitahaya"
+    hs6: "081090"
+    hs_desc: "Other fruit, fresh"
+    mag_name: "Pitahaya"
+    is_pure_hs6: false
+    subheading_national: "0810904000"
+    notes: "Partida internacional general (Las demás frutas frescas). A nivel nacional andino se codifica como 0810904000 (Pitahaya). En 2025, la pitahaya registrada por el MAG representó USD 272.76M (aprox. 79.8% del valor total de la partida 081090 en Comtrade)."
+
+time_periods:
+  historical_start_year: 2015
+  historical_end_year: 2025
+  main_analysis_year: 2025
+  partial_update_year: 2026
+  partial_period_label: "Enero - Julio"
+
+wits:
+  base_url: "https://wits.worldbank.org/API/V1/SDMX/V21/"
+  reporter_iso3: "ECU"
+  product_sector: "06-15_Vegetable"
+  indicators:
+    export_value: "XPRT-TRD-VL"
+    import_value: "MPRT-TRD-VL"
+    applied_tariff: "AHS-WGHTD-AVRG"
+    mfn_tariff: "MFN-WGHTD-AVRG"
+
+comtrade:
+  base_url: "https://comtradeapi.un.org/public/v1/preview/C/A/HS"
+  reporter_code_ecuador: 218
+  rate_limit_delay_seconds: 1.5
+  max_retries: 3
+  timeout_seconds: 20
+
+reconciliation_benchmarks_2025:
+  pitahaya_mag_usd: 272762184.80
+  pina_mag_usd: 81108645.51
