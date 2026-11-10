@@ -12,7 +12,7 @@ Plataforma ejecutiva de visualización interactiva y dictamen de factibilidad co
 ## 🚀 Despliegue en Vivo (Vercel)
 
 - **Repositorio GitHub:** [santiagonaranjofinanzas-droid/Estudio-de-mercado-Exportacion-Frutas](https://github.com/santiagonaranjofinanzas-droid/Estudio-de-mercado-Exportacion-Frutas)
-- **Documento Técnico en PDF (APA 7):** [`Informe_Exportacion_Frutas_Ecuador_APA7.pdf`](./Informe_Exportacion_Frutas_Ecuador_APA7.pdf) (14 páginas con tablas formales, figura vectorial y referencias oficiales).
+- **Documento Técnico en PDF:** [`Informe_Exportacion_Frutas_Ecuador.pdf`](./Informe_Exportacion_Frutas_Ecuador.pdf) (Guía ejecutiva de 7 páginas con tablas de rentabilidad y hoja de ruta).
 
 ---
 
